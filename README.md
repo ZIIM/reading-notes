@@ -1,2 +1,5 @@
 # reading-notes
-Growth_Mindset
+
+## Growth_Mindset
+
+1.
