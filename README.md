@@ -1,4 +1,4 @@
-# reading-notes
+# Table of Contents
 
 ## My_Explaination_of_Growth_Mindset
 
