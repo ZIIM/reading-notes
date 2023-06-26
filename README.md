@@ -1,6 +1,6 @@
 # Table of Contents
 
-* [Growth Mindset]()
+* [Growth Mindset](Growth_Mindset)
 * ## My_Explaination_of_Growth_Mindset
 
 * A growth mindset is the idea that intelligence is not a set value but that can be improved upon through challenging yourself
