@@ -1,6 +1,6 @@
 # Table of Contents
 
-* [Growth Mindset](Growth_Mindset)
+* [Growth Mindset](Growth_Mindset.md)
 
 ## Introduction
 
