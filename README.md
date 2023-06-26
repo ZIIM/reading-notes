@@ -2,6 +2,7 @@
 
 * [Growth Mindset](Growth_Mindset.md)
 
+* [Markdown](Markdown.md)
 
 # Introduction
 
