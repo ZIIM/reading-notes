@@ -6,7 +6,7 @@
 
 3. What symbol will create a heading in Markdown?
 
-  * "#"
+  * #
 
 5. How many do you need to create the largest heading?
 
