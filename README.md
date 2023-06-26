@@ -4,7 +4,7 @@
 
 * [Markdown](Markdown.md)
 
-*[Read 02](Codeers_Computer)
+* [Reading 02](Codeers_Computer.md)
 
 # Introduction
 
