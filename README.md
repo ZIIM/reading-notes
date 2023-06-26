@@ -1,5 +1,5 @@
 # reading-notes
 
-## Growth_Mindset
+## My_Explaination_of_Growth_Mindset
 
 1.
