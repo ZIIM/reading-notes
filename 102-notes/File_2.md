@@ -1,33 +1,27 @@
-# Markdown
+# Coders Computer
 
-1. What is Markdown?
+## What are four important features to look for in a text editor?
 
-* Markdown is a lightweight markup language for creating formatted text using a plain-text editor
+  1. code completion;
+  2. syntax highlighting
+  3. a nice variety of themes (to reduce eye strain and
+fatigue)
+  4. the ability to choose from a healthy selection of
+extensions available when you need them
 
-2. Why do we use Markdown?
+## What do the following commands do?
+  
+  1. pwd = Full path to working directory
+  2. ls = Short listing
+  3. cd = Home directory
+  4. mkdir = Create new directory
+  5. touch = Create a new file
 
-* Markdown can be used for everything.
-
-3. What symbol will create a heading in Markdown?
-
-* number sign
-
-4. How many do you need to create the largest heading?
-
-* 1
-
-5. How many do you need to create the smallest heading?
-
-* 6
-
-6. When making text bold or italicized for emphasis, it is best practice to use which symbol?
-
-* asterisks
-
-7. How do you create a link with Markdown?
-
-* enclose the link text in brackets and then follow it immediately with the URL in parentheses
-
-8. What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
-
-* To create an unordered list, add dashes (-), asterisks (*), or plus signs (+) in front of line items.
+## Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.)
+  
+  1. cd projects = will change directory to projects
+  2. mkdir new-project = adds a new directory named new project
+  3. touch new-project/newfile.md = a new file will be added named newfile.md under new-project
+  4. cd .. = changes to parent directory
+  5. ls projects/new-project = shows a list of files and folders within new-project file
+  
