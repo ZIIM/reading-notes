@@ -1,7 +1,7 @@
 # Read: 04
 
 1. What is HTML and why do we use it?
-    *
+    * Hypertext markup language
 
 2. What are the 3 main parts of an HTML element?
     *
