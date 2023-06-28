@@ -1,6 +1,6 @@
 # Table of Contents
 
-* [Coders Computer](102-notes/File_1.md)
+* [Coders Computer](File_1.md)
 * [Markdown](File_2.md)
 * [Growth Mindset](File_3.md)
 
