@@ -24,3 +24,4 @@ extensions available when you need them
   3. touch new-project/newfile.md = a new file will be added named newfile.md under new-project
   4. cd .. = changes to parent directory
   5. ls projects/new-project = shows a list of files and folders within new-project file
+  

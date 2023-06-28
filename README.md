@@ -1,8 +1,13 @@
 # Table of Contents
 
-* [Coders Computer](File_1.md)
-* [Markdown](File_2.md)
-* [Growth Mindset](File_3.md)
+* [Read 01](File_1.md)
+* [Read 02](File_2.md)
+* [Read 03](File_3.md)
+* [Read 04](File_4.md)
+* [Read 05](File_5.md)
+* [Read 06](File_6.md)
+* [Read 07](File_7.md)
+* [Read 08](File_8.md)
 
 ## Introduction
 
