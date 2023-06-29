@@ -10,4 +10,4 @@
     * "=" sets a value into a variable
 
 4. What is information recieved from the user called?
-    *
+    * output
