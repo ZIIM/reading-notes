@@ -7,7 +7,7 @@
 * [Read 04](102-notes/File_4.md)
 * [Read 05](102-notes/File_5.md)
 * [Read 06](102-notes/File_6.md)
-* [Read 07](102-notes/File_7.md)
+* [Read 07](102-notes/FIle_7.md)
 * [Read 08](102-notes/File_8.md)
 
 * [201 Notes](201-notes)
