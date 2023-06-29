@@ -10,16 +10,16 @@
     * attributes
 
 4. What is a sematic element?
-    * <article>
-<aside>
-<details>
-<figcaption>
-<figure>
-<footer>
-<header>
-<main>
-<mark>
-<nav>
-<section>
-<summary>
-<time>
+"article"
+"aside"
+"details"
+"figcaption"
+"figure"
+"footer"
+"header"
+"main"
+"mark"
+"nav"
+"section"
+"summary"
+"time"
