@@ -11,9 +11,9 @@
 * [Read 08](102-notes/File_8.md)
 
 * [201 Notes](201-notes)
-* [Read:Class_01](201_Class_01.md)
-* [Read:CLass_02](201_Class_02.md)
-* [Read:Class_03](201_CLass_03.md)
+* [Read:Class_01](201-notes/201_Class_01.md)
+* [Read:CLass_02](201-notes/201_Class_02.md)
+* [Read:Class_03](201-notes/201_CLass_03.md)
 
 ## Introduction
 
