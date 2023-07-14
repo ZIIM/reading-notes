@@ -14,6 +14,7 @@
 * [Read:Class_01](201-notes/201_Class_01.md)
 * [Read:CLass_02](201-notes/201_Class_02.md)
 * [Read:Class_03](201-notes/201_CLass_03.md)
+* [Read:Class_04](201-notes/201_CLass_04.md)
 
 ## Introduction
 
