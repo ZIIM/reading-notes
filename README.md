@@ -16,6 +16,11 @@
 * [Read:Class_03](201-notes/201_CLass_03.md)
 * [Read:Class_04](201-notes/201_CLass_04.md)
 * [Read:Class_05](201-notes/201_Class_05.md)
+* [Read:Class_06](201-notes/201_Class_06.md)
+* [Read:Class_07](201-notes/201_Class_07.md)
+* [Read:Class_08](201-notes/201_Class_08.md)
+* [Read:Class_09](201-notes/201_Class_09.md)
+* [Read:Class_10](201-notes/201_Class_10.md)
 
 ## Introduction
 
