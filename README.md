@@ -23,6 +23,7 @@
 * [Read:Class_10](201-notes/201_Class_10.md)
 * [Read:Class_11](201-notes/201_Class_11.md)
 * [Read:Class_12](201-notes/201_Class_12.md)
+* [Read:Class_13](201-notes/201_Class_13.md)
 
 ## Introduction
 
