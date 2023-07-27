@@ -24,6 +24,8 @@
 * [Read:Class_11](201-notes/201_Class_11.md)
 * [Read:Class_12](201-notes/201_Class_12.md)
 * [Read:Class_13](201-notes/201_Class_13.md)
+* [Read:Class_14](201-notes/201_Class_14.md)
+* [Read:Class_14](201-notes/201_Class_14:Psychological_Safety.md)
 
 ## Introduction
 
